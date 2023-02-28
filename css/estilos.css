@@ -136,6 +136,19 @@ body{
 
    margin-bottom: 50px;
 }
+
+button{
+   background-color:#4caf50 ;
+   border:none;
+   border-radius: 30px;
+  margin-bottom: 30px;
+  color: white;
+  padding: 10px 25px;
+
+  
+
+
+}
    
   
  

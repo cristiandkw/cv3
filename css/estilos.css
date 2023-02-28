@@ -1,0 +1,156 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+    
+}
+
+body{
+    background:#beb8ac ;
+ }
+
+ .contenedor{
+
+    width: 800px;
+    height: 1100px;
+    margin: 100px auto;
+    background: white;
+    box-shadow: 5px 21px 20px 20px #3d3f4238;
+
+   
+
+
+ }
+ .Encabezado {
+
+    display: inline;
+   text-align: center;
+
+   
+ }
+
+
+ .navegador{
+    margin-left: 50%;
+    margin-bottom: 20px;
+    padding: 5px;
+    
+   
+  
+  
+    
+    
+
+
+ }
+ ul {
+    
+    list-style-type: none;
+   text-align: center;
+   
+    
+   
+
+
+
+
+ }
+ li{
+    display: inline;
+    text-align: center;
+    margin: 0 10px 0 0;
+ }
+
+ a {
+    padding: 2px 7px 2px 7px;
+    color: #666;
+    background-color: #eeeeee;
+    border: 1px solid #ccc;
+    text-decoration: none;
+    border-radius: 8px;
+ }
+ li a:hover{
+    background-color: #333333;
+    color: #ffffff;
+ }
+  h1 {
+    
+    height: -200px;
+    float: right;
+    margin-right: 130px;
+    margin-top: 130px;
+    
+
+
+
+  }
+  hr{
+
+   margin-top: 27px;
+   margin-bottom: 27px;
+   height: 2px;
+  
+   
+  }
+  .experiencia{
+
+   margin-left: 50px;
+  
+   
+
+  }
+  .formacion{
+   margin-left: 50px;
+   
+
+
+  }
+
+
+  .contacto{
+   margin-left: 50px;
+
+
+  }
+  .fa-solid {
+
+   padding-right: 10px;
+   color: brown;
+
+
+  }
+  .fa-regular{
+   padding-right: 10px;
+   color: brown;
+
+
+  }
+  img{
+   margin-top: 18px;
+   
+
+
+  }
+.boton{
+
+   margin-bottom: 50px;
+}
+   
+  
+ 
+
+  
+
+  
+   
+
+
+  
+
+
+
+
+  
+
+  
